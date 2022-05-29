@@ -1,1 +1,2 @@
-# Neural-Network
+# Dense Neural Network
+#### While I mostly build machine learning mdoels using TensorFlow or Scikit-Learn, I wrote this one using only Python and NumPy code. It is a fully dense neural network that classifies images from the Fashion-MNIST dataset. The algorithm includes both forward and backward propagation, and uses gradient descent with a learning rate that decreases slightly as training proceeds.
